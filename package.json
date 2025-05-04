@@ -8,11 +8,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "body-parser": "^2.2.0",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annaluru-Abhiram/Task-9.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Annaluru-Abhiram/Task-9/issues"
+  },
+  "homepage": "https://github.com/Annaluru-Abhiram/Task-9#readme",
+  "description": ""
 }
